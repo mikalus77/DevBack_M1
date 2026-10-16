@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversiteBackEnd", "UniversiteBackEnd\UniversiteBackEnd.csproj", "{6BA7C169-357C-4DD1-9E7F-A13C1B62A7BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataProviders", "DataProviders", "{5FE6023B-3F64-4D33-BE46-B63DB58D63F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{9344D929-AE6F-4473-9784-2F7D669C3E2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EntryPoints", "EntryPoints", "{33FC7257-611C-482E-8F66-66493B5A2F5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{4E8EF56A-ED41-4878-B6D2-25A286D5A396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA7C169-357C-4DD1-9E7F-A13C1B62A7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA7C169-357C-4DD1-9E7F-A13C1B62A7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA7C169-357C-4DD1-9E7F-A13C1B62A7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA7C169-357C-4DD1-9E7F-A13C1B62A7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
